@@ -5,4 +5,4 @@
 DAFAV is an audio visualizer.
 
 ## Screenshot
-![screen](1600.jpeg "screenshot")
+![screen](http://i.imgur.com/STJvYk9.jpg "screenshot")
