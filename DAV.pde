@@ -12,6 +12,7 @@ void setup()
 {
   size(displayWidth, displayHeight);
   minim = new Minim(this);
+  // change the mp3 source to change the mp3
   player = minim.loadFile("Aware.mp3");
   meta = player.getMetaData();
   beat = new BeatDetect();
